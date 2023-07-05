@@ -17,3 +17,11 @@ console.log(gravity, boilingPoint, PI);
 let job = 'teacher';
 
 console.log(firstName, job, country);
+console.log(firstName, job, country);
+
+// comments can make code readable
+// Welcome to 30DaysOfJavaScript
+/*
+comments can make code readable
+easy to reuse and informative
+*/
